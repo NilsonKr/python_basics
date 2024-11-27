@@ -1,0 +1,6 @@
+Nilson, rol: employee, ingreso al sistema.
+Nico, rol: admin, ingreso al sistema.
+Nico, rol: admin, salio del sistema.
+Nilson, rol: employee, salio del sistema.
+Nico has update order#2313
+Nico has update order#2313

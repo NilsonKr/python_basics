@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Espresso",
+    "Description": "A single shot of strong, black coffee",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Double Espresso (Doppio)",
+    "Description": "Two shots of espresso",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Americano",
+    "Description": "Espresso diluted with hot water",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Cappuccino",
+    "Description": "Equal parts espresso, steamed milk, and milk foam",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Latte",
+    "Description": "Espresso with a larger amount of steamed milk and a thin layer of foam",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Macchiato",
+    "Description": "Espresso with a small dollop of milk foam",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Flat White",
+    "Description": "Similar to a latte but with microfoam, popular in Australia and New Zealand",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Mocha",
+    "Description": "Espresso mixed with chocolate syrup and steamed milk, topped with whipped cream",
+    "Type": "Hot"
+  },
+  {
+    "Name": "Iced Coffee",
+    "Description": "Brewed coffee served over ice",
+    "Type": "Cold"
+  },
+  {
+    "Name": "Cold Brew",
+    "Description": "Coffee brewed slowly with cold water over 12–24 hours",
+    "Type": "Cold"
+  },
+  {
+    "Name": "Frappuccino",
+    "Description": "A blended iced coffee drink, often sweetened",
+    "Type": "Cold"
+  }
+]

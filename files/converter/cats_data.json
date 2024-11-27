@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Whiskers",
+        "Breed": "Siamese",
+        "Age (Years)": "2",
+        "Color": "Cream",
+        "Weight (kg)": "4.2"
+    },
+    {
+        "Name": "Shadow",
+        "Breed": "Persian",
+        "Age (Years)": "3",
+        "Color": "Gray",
+        "Weight (kg)": "3.5"
+    },
+    {
+        "Name": "Mittens",
+        "Breed": "Maine Coon",
+        "Age (Years)": "1",
+        "Color": "Black",
+        "Weight (kg)": "5.0"
+    },
+    {
+        "Name": "Smokey",
+        "Breed": "British Shorthair",
+        "Age (Years)": "4",
+        "Color": "Blue",
+        "Weight (kg)": "4.8"
+    },
+    {
+        "Name": "Luna",
+        "Breed": "Bengal",
+        "Age (Years)": "5",
+        "Color": "Brown",
+        "Weight (kg)": "4.1"
+    }
+]

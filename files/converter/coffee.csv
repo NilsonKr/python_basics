@@ -1,0 +1,12 @@
+Name,Description,Type
+Espresso,"A single shot of strong, black coffee",Hot
+Double Espresso (Doppio),Two shots of espresso,Hot
+Americano,Espresso diluted with hot water,Hot
+Cappuccino,"Equal parts espresso, steamed milk, and milk foam",Hot
+Latte,Espresso with a larger amount of steamed milk and a thin layer of foam,Hot
+Macchiato,Espresso with a small dollop of milk foam,Hot
+Flat White,"Similar to a latte but with microfoam, popular in Australia and New Zealand",Hot
+Mocha,"Espresso mixed with chocolate syrup and steamed milk, topped with whipped cream",Hot
+Iced Coffee,Brewed coffee served over ice,Cold
+Cold Brew,Coffee brewed slowly with cold water over 12–24 hours,Cold
+Frappuccino,"A blended iced coffee drink, often sweetened",Cold
